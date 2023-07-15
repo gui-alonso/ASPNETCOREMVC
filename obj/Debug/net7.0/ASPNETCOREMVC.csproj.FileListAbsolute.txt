@@ -24,3 +24,5 @@ C:\Users\guilh\source\repos\ASPNETCOREMVC\obj\Debug\net7.0\refint\ASPNETCOREMVC.
 C:\Users\guilh\source\repos\ASPNETCOREMVC\obj\Debug\net7.0\ASPNETCOREMVC.pdb
 C:\Users\guilh\source\repos\ASPNETCOREMVC\obj\Debug\net7.0\ASPNETCOREMVC.genruntimeconfig.cache
 C:\Users\guilh\source\repos\ASPNETCOREMVC\obj\Debug\net7.0\ref\ASPNETCOREMVC.dll
+C:\Users\guilh\source\repos\ASPNETCOREMVC\obj\Debug\net7.0\ASPNETCOREMVC.RazorAssemblyInfo.cache
+C:\Users\guilh\source\repos\ASPNETCOREMVC\obj\Debug\net7.0\ASPNETCOREMVC.RazorAssemblyInfo.cs

@@ -15,3 +15,11 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\guilh\source\repos\ASPNETCOREMVC
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/guilh/source/repos/ASPNETCOREMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/guilh/source/repos/ASPNETCOREMVC/Views/_ViewsImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdzSW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

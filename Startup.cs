@@ -17,7 +17,8 @@ namespace Startup
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            //services.AddControllersWithViews();
+            services.AddMvc();
             // Outros serviços necessários podem ser configurados aqui
         }
 
